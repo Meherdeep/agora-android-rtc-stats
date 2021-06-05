@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">agora-android-rtc-stats</string>
+    <string name="rtc_stats">Rtc Stats</string>
+</resources>
